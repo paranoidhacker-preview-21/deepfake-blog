@@ -1,0 +1,12 @@
+export { default as About } from './About';
+export { default as Features } from './Features';
+export { default as Hero } from './Hero';
+export { default as Integrations } from './Integrations';
+export { default as Pricings } from './Pricings';
+export { default as Reviews } from './Reviews';
+export { default as Subscription } from './Subscription';
+export { default as QuickSearch } from './QuickSearch';
+export { default as Categories } from './Categories';
+export { default as Blog } from './Blog';
+export { default as ShowBlog } from './ShowBlog';
+export { default as Spinner} from './Spinner';
